@@ -13,7 +13,7 @@ body {
   background-color: var(--title-link-color);
   font-size: 14px;
   letter-spacing: 0.03em;
-  color: var(--mail-tel-body-color);
+  color: var(--header-mail-tel-body-color);
 }
 
 .link {
@@ -149,6 +149,7 @@ body {
 }
 
 .characteristics-title-bottom {
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
@@ -312,4 +313,5 @@ body {
 .employmen-text {
   font-size: 16px;
   line-height: 1.88;
+  color: var(--header-mail-tel-body-color);
 }
