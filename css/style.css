@@ -46,6 +46,7 @@ body {
 }
 
 .header-link {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -58,6 +59,7 @@ body {
 
 .header-link:hover,
 .header-link:focus {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -66,6 +68,7 @@ body {
 }
 
 .header-mail {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -75,6 +78,7 @@ body {
 
 .header-mail:hover,
 .header-mail:focus {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -83,6 +87,7 @@ body {
 }
 
 .header-tel {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -92,6 +97,7 @@ body {
 
 .header-tel:hover,
 .header-tel:focus {
+  font-family: inherit;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -196,7 +202,6 @@ body {
 
 .footer-logo {
   font-family: "Raleway";
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -206,7 +211,6 @@ body {
 
 .footer-logo-bottom {
   font-family: "Raleway";
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
